@@ -1,5 +1,5 @@
 # Ayza 🐝
-I code and bike
+I bike around the city and I like landscapes, games, anime, and programming.
 
 <table align="center" cellspacing="12">
   <tr>
