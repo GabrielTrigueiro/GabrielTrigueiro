@@ -1,11 +1,30 @@
 # Ayza 🐝
 I code and bike
 
-<p align=center>
-  <!-- <img width=279 src=https://github.com/user-attachments/assets/860b453b-ecd4-4512-9712-831620727d8a alt="Yanagi" />
-  <img width=279 src=https://github.com/user-attachments/assets/c4dafa6b-063e-4c02-9e76-335346e3449f alt="Classic Jirai" />
-  <img width=279 src=https://github.com/user-attachments/assets/e3bcf117-7145-445d-9312-e6756efc9b5a alt="Ryousangata" /> -->
-</p>
+<table align="center" cellspacing="12">
+  <tr>
+    <td style="border:1px solid #333; border-radius:8px; padding:6px;">
+      <img width="279" src="./IMG_20250513_082404.jpg" alt="View" />
+    </td>
+    <td style="border:1px solid #333; border-radius:8px; padding:6px;">
+      <img width="279" src="./IMG_20250529_074531.jpg" alt="View" />
+    </td>
+    <td style="border:1px solid #333; border-radius:8px; padding:6px;">
+      <img width="279" src="./IMG_20250613_080847.jpg" alt="View" />
+    </td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #333; border-radius:8px; padding:6px;">
+      <img width="279" src="./IMG_20251229_055744.jpg" alt="View" />
+    </td>
+    <td style="border:1px solid #333; border-radius:8px; padding:6px;">
+      <img width="279" src="./Screenshot_2025-05-11-06-32-10-688_com.google.android.apps.photos.jpg" alt="View" />
+    </td>
+    <td style="border:1px solid #333; border-radius:8px; padding:6px;">
+      <img width="279" src="./Screenshot_2025-05-11-06-33-05-555_com.google.android.apps.photos.jpg" alt="View" />
+    </td>
+  </tr>
+</table>
 
 <p align=center>
   <a href="https://skillicons.dev">
