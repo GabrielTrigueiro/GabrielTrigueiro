@@ -17,4 +17,4 @@ I code and bike
 
 ## Stuff I worked
 - [Juntoo](https://apps.apple.com/br/app/junto%24/id1563846408): Ergonomic framework for Humans
-- [Guardião do Consumidor]([https://niku.saltyaom.com](https://apps.apple.com/br/app/guardião-do-consumidor/id6753079908)): Effortlessly compose your Flutter UI for humans.
+- [Guardião do Consumidor](https://niku.saltyaom.com](https://apps.apple.com/br/app/guardião-do-consumidor/id6753079908)): Effortlessly compose your Flutter UI for humans.
