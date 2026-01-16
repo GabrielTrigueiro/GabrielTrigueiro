@@ -1,35 +1,20 @@
-<h1 align="center"> Olá, me chamo Gabriel Trigueiro! </h1>
+# Ayza 🦊
+I code and bike
 
-- 🔭 Desenvolvedor javascript
-- ✏️ Aprendendo rails
-- 👌 Amo programação
-- 😄 Pronomes: Ele/Dele
-- 📫 Para me contatar: www.linkedin.com/in/devgabrieltrigueiro
-- 📨 devgabrieltrigueiro@gmail.com
+<p align=center>
+  <!-- <img width=279 src=https://github.com/user-attachments/assets/860b453b-ecd4-4512-9712-831620727d8a alt="Yanagi" />
+  <img width=279 src=https://github.com/user-attachments/assets/c4dafa6b-063e-4c02-9e76-335346e3449f alt="Classic Jirai" />
+  <img width=279 src=https://github.com/user-attachments/assets/e3bcf117-7145-445d-9312-e6756efc9b5a alt="Ryousangata" /> -->
+</p>
 
-<div align="center">
-  <a href="https://github.com/GabrielTrigueiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielTrigueiro&show_icons=false&theme=dracula&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTrigueiro&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-  
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="GabrielTrigueiro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="GabrielTrigueiro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="GabrielTrigueiro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="GabrielTrigueiro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="GabrielTrigueiro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="GabrielTrigueiro-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="GabrielTrigueiro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="GabrielTrigueiro-VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="GabrielTrigueiro-MongoDb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="GabrielTrigueiro-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+<p align=center>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,dart,flutter,kotlin,java,react,nextjs,graphql" alt="typescript,dart,flutter,kotlin,java,react,nextjs,graphql" />
+  </a>
+</p>
 
-</div>
-  
-  ##
-  
-<div align="center"> 
-  <a href = "mailto:devgabrieltrigueiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/devgabrieltrigueiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+<br />
+
+## Stuff I worked
+- [Juntoo](https://apps.apple.com/br/app/junto%24/id1563846408): Ergonomic framework for Humans
+- [Guardião do Consumidor]([https://niku.saltyaom.com](https://apps.apple.com/br/app/guardião-do-consumidor/id6753079908)): Effortlessly compose your Flutter UI for humans.
