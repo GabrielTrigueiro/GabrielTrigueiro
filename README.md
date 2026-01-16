@@ -1,4 +1,4 @@
-# Ayza 🦊
+# Ayza 🐝
 I code and bike
 
 <p align=center>
