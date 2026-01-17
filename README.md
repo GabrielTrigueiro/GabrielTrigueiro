@@ -39,5 +39,5 @@ I bike around the city and I like landscapes, games, anime, and programming.
 <br />
 
 ## Stuff I worked
-- [Juntoo](https://apps.apple.com/br/app/junto%24/id1563846408): Ergonomic framework for Humans
-- [Guardião do Consumidor](https://niku.saltyaom.com](https://apps.apple.com/br/app/guardião-do-consumidor/id6753079908)): Effortlessly compose your Flutter UI for humans.
+- [Juntoo](https://apps.apple.com/br/app/junto%24/id1563846408): App de linha de crédito.
+- [Guardião do Consumidor](https://niku.saltyaom.com](https://apps.apple.com/br/app/guardião-do-consumidor/id6753079908)): App para consultar estado de crédito
